@@ -1,0 +1,17 @@
+入れたほうがよいもの
+・vscode
+・xcode
+・AndroidStudio
+・GoogleChrome
+・docker
+・Fig
+・iTerm
+・vagrant
+・Slack
+・Teams
+・Outlook
+・sequel ace
+・clipy
+・postman
+・Insomnia
+・Excel
